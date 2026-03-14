@@ -20,5 +20,6 @@ Analyzing customer data to optimize marketing strategies and maximize profit.
 
 # Dataset used
 -<a href= "https://github.com/Sadhanavvs/Sporcket-Central-Profit-Analysis/blob/main/sporcket%20Data%20set.csv">Dataset</a>
-#
+# Dashboard
+-<a href ="https://github.com/Sadhanavvs/Sporcket-Central-Profit-Analysis/blob/main/Profit%20dashboard.jpg">view Dashboard</a>
 
