@@ -17,3 +17,7 @@ Analyze company sales data to identify profit trends, top products and business 
 * October month has the highest profit
 ## Business Requirement
 Analyzing customer data to optimize marketing strategies and maximize profit. 
+
+# Dataset used
+"C:\Users\sadhu\Desktop\Data sets\sporcket Data set.csv"
+
