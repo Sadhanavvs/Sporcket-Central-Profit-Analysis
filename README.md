@@ -19,5 +19,5 @@ Analyze company sales data to identify profit trends, top products and business 
 Analyzing customer data to optimize marketing strategies and maximize profit. 
 
 # Dataset used
-"C:\Users\sadhu\Desktop\Data sets\sporcket Data set.csv"
+https://github.com/Sadhanavvs/Sporcket-Central-Profit-Analysis/blob/main/sporcket%20Data%20set.csv
 
